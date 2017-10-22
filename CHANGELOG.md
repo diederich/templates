@@ -14,7 +14,7 @@ _None_
 
 ### New Features
 
-* Allows to set all properties as `public` by using `--param public` on all templates.  
+* Allows to set all properties as `public` by using `--param publicAccess` on all templates.  
   [Olivier Halligon](https://github.com/AliSoftware)
   [#84](https://github.com/SwiftGen/templates/pull/84)
   [Txai Wieser](https://github.com/txaiwieser)
